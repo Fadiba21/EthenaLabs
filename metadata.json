@@ -1,0 +1,6 @@
+{
+  "name": "AI Crypto Signal Trader",
+  "description": "Auto trading futures crypto dengan analisa AI Gemini Flash, pembaca sinyal Telegram realtime, dan eksekusi otomatis ke Bybit Futures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
